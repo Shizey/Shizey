@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 it's shrek time
 
-<!--
-**Shizey/Shizey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -1;
+position: fixed;
+inset:0;
+opacity: 0.7;
+background: url('https://media1.giphy.com/media/YTtqB2j5EN7IA/200w.gif?cid=6c09b9525zd3j6ujxbaj4i54s0mworbq2gur88b8p7omuegr&ep=v1_gifs_search&rid=200w.gif&ct=g');
+"]{}
+```
